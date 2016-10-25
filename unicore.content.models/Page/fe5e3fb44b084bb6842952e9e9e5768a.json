@@ -5,13 +5,13 @@
   "title": "Qu\u2019en est-il des rumeurs faisant \u00e9tat d\u2019aliments pouvant pr\u00e9venir ou traiter l\u2019infection?", 
   "primary_category": "8e07fd959cf44343928a36098c7fe412", 
   "created_at": "2015-09-02T19:33:17+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2016-08-18T13:50:57.577851+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-10-25T09:55:14.134061+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
