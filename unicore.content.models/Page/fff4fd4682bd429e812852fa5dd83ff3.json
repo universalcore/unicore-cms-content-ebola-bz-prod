@@ -6,12 +6,12 @@
   "primary_category": "fd24ce1631be4f5f86b7a2af9a10f08d", 
   "created_at": "2017-02-17T12:16:19.956517+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-17T12:16:19.956763+00:00", 
+  "modified_at": "2017-02-24T13:50:42.576034+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 17, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "untranslated-arabic-leading-cause-diarrhea", 
   "uuid": "fff4fd4682bd429e812852fa5dd83ff3"
