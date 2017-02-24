@@ -6,12 +6,12 @@
   "primary_category": "59ad188c318040759214cc3caaa167c7", 
   "created_at": "2016-09-20T14:51:26.835538+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-09-20T14:51:26.835777+00:00", 
+  "modified_at": "2017-02-24T13:51:18.820715+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "eda6368375fd493b8696ca9a1e2bf203", 
   "published": null, 
-  "position": 0, 
+  "position": 52, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "les-femmes-enceintes-devraient-elles-sinquieter-de-ce-virus", 
   "uuid": "4f6a37eadde946a2bb2b93e620fab74d"
